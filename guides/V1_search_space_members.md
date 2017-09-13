@@ -26,6 +26,7 @@ omitted by default.
       hasPreviousPage
       hasNextPage
     }
+    total
   }
 }
 ```
